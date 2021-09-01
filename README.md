@@ -1,3 +1,4 @@
 # CSC510_HW2b
 
-![example workflow](https://github.com/angelaho0504/CSC510_HW2b/actions/workflows/build.yml/badge.svg)
+<a 
+href="https://github.com/angelaho0504/CSC510_Hw2b/actions"><img src="https://github.com/angelaho0504/CSC510_Hw2b/actions/workflows/build.yml/badge.svg"></a>
