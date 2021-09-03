@@ -1,5 +1,5 @@
 import code
-from code.armstrong import armstrong
+from armstrong import armstrong
 
 def test_valid():
 
