@@ -1,6 +1,6 @@
 # import module
 
-def test_armstrong(self):
+def test_valid_range(self):
 
     # module.input = lambda: 999
     # output = module.armstrong()
