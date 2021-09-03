@@ -1,4 +1,3 @@
-pytest==4.02
+pytest==3.10.1
 pytest-cov==2.6.0
 pytest-dependency==0.3.2
-attrs==19.1.0
