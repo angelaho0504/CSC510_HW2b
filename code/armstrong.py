@@ -3,7 +3,7 @@ def armstrong():
   print("Enter the range :")
   n = int(input())
 
-  for num in range(100, n+1):
+  for num in range(1, n+1):
 
     order = 3
     sum = 0
