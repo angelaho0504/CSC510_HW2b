@@ -1,5 +1,10 @@
 import code
-from armstrong import armstrong
+import os
+import sys
+__dirname = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, __dirname + '../')
+
+from code.armstrong import armstrong
 
 def test_valid():
 
