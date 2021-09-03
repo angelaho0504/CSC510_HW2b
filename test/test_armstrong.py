@@ -1,10 +1,10 @@
-# import module
+import module
 
-def test_valid_range(self):
+def test_valid(self):
 
-    # module.input = lambda: 999
-    # output = module.armstrong()
+    module.input = lambda: 999
+    output = module.armstrong()
     assert output == [1, 153, 370,371, 407]       
 
-# def teardown_method(self, method):
-#     module.input = input  
+def teardown_method(self, method):
+    module.input = input  
