@@ -1,6 +1,6 @@
 import code
 
-def test_valid(self):
+def test_valid():
 
     armstrong.input = lambda: 999
     output = armstrong.armstrong()
