@@ -1,10 +1,10 @@
-import module
+import armstong
 
 def test_valid(self):
 
-    module.input = lambda: 999
-    output = module.armstrong()
+    armstong.input = lambda: 999
+    output = armstong.armstrong()
     assert output == [1, 153, 370,371, 407]       
 
 def teardown_method(self, method):
-    module.input = input  
+    armstong.input = input  
