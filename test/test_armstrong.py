@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, ../code)
+sys.path.insert('../code')
 import armstrong
 
 def test_valid(self):
