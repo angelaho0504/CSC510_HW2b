@@ -5,7 +5,7 @@ def armstrong():
 
   for num in range(100, n+1):
 
-    order = len(str(num))
+    order = 3
     sum = 0
 
     temp = num
