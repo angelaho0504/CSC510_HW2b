@@ -2,7 +2,7 @@ import code
 import os
 import sys
 __dirname = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, __dirname + '/..)
+sys.path.insert(0, __dirname + '/..')
 
 from code import armstrong
 
