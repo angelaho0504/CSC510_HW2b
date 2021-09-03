@@ -1,6 +1,4 @@
-import sys
-sys.path.append('../code')
-import armstrong
+import code
 
 def test_valid(self):
 
